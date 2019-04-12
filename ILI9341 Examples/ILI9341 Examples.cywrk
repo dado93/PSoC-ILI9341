@@ -3,11 +3,12 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWorkspaceSerialize" version="5" xml_contents_version="3" name="ILI9341 Examples" persistent="ILI9341 Examples.cywrk" platform="NOT_USED">
-<current_project name=".\Graphics_Test.cydsn\Graphics_Test.cyprj" />
+<current_project name=".\Picture_Embed.cydsn\Picture_Embed.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
 <v>.\Graphics_Test.cydsn\Graphics_Test.cyprj</v>
+<v>.\Picture_Embed.cydsn\Picture_Embed.cyprj</v>
 </projects>
 <workspace_id v="b5e23939-67b7-4717-9cf7-675c80f12d22" />
 <WriteAppVersionLastSavedWith v="4.2.0.641" />
